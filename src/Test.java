@@ -4,7 +4,6 @@ public class Test {
 	public static void main(String[] args) {
 		//이제 한글이 되나?
 		
-		
-		//충돌테스트2
+		//충돌 테스트
 	}
 }
